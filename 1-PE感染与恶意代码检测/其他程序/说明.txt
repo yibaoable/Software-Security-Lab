@@ -1,0 +1,4 @@
+getkernel 获取kernel基地址和相关函数地址
+relocateaddress 重定位功能
+hello 弹出两个弹窗
+hello2 修改入口地址后只弹一个弹窗
